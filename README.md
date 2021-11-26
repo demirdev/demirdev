@@ -3,4 +3,4 @@
 I enjoy learning new things & share tips about Dart & Flutter.
 
 for more follow me on twitter:
-[@demirdev](https://twitter.com/demirdev)
+[@demirdevv](https://twitter.com/demirdevv)
