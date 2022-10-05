@@ -1,5 +1,5 @@
 ### Hi 👋, I am Mehmet,
-#### Mobile & Web Developer
+#### Software Developer, Dart & Flutter
 I enjoy learning new things & share tips about Dart & Flutter.
 
 [![demirdev](https://img.shields.io/twitter/follow/demirdevv)](https://twitter.com/demirdevv)
