@@ -7,8 +7,8 @@ I enjoy learning new things & share tips about Dart & Flutter.
 
 ### My Flutter packages on pub.dev
 
-[![](https://img.shields.io/badge/pinch_scale-pub.dev-green)](https://pub.dev/packages/pinch_scale)
-[![](https://img.shields.io/badge/mina_reader-pub.dev-green)](https://pub.dev/packages/mina_reader)
+[![](https://img.shields.io/pub/v/pinch_scale.svg?label=pinch_scale&color=blue)](https://pub.dev/packages/pinch_scale)
+[![](https://img.shields.io/pub/v/mina_reader.svg?label=mina_reader&color=blue)](https://pub.dev/packages/mina_reader)
 
 
 
