@@ -20,7 +20,7 @@ I enjoy learning new things & share tips about Dart & Flutter.
   - [LinkedIn @demirdev](https://www.linkedin.com/in/demirdev/)
   - [Twitter @demirdevv](https://twitter.com/demirdevv)
 
-[:globe_with_meridians: My Portfolio Website (Turkish)](https://demirdev.github.io)
+<!-- [:globe_with_meridians: My Portfolio Website (Turkish)](https://demirdev.github.io) -->
 
 
 
