@@ -6,6 +6,7 @@ I enjoy learning new things & share tips about Dart & Flutter.
 
 [![demirdev](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demirdev/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=demirdev)](https://git.io/streak-stats)
 
 ### Applications Developed By Me
 #### 2023
