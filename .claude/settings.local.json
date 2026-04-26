@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:apps.apple.com)",
+      "Bash(curl -s -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/605.1.15 \\(KHTML, like Gecko\\) Version/17.0 Safari/605.1.15\" \"https://apps.apple.com/us/developer/mehmet-demir/id1522952577\" -o /tmp/devpage.html)",
+      "Read(//tmp/**)",
+      "Bash(curl -s \"https://itunes.apple.com/lookup?id=1642230812,6759767862,6757370829,6758251760,6744122642,6755741912,6741706717,6739746694,6739266843,6503323104,6480583293,6738749709,6443647171,1616113692,1582979813,1596943808,1589611988&country=us\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(f\\\\\"{a['trackId']}: {a['trackName']} | {a['trackViewUrl']}\\\\\"\\) for a in d['results']]\")",
+      "Bash(curl -s \"https://itunes.apple.com/lookup?id=6759767862&entity=software\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); a=d['results'][0]; print\\('artistId:', a.get\\('artistId'\\)\\); print\\('sellerName:', a.get\\('sellerName'\\)\\); print\\('artistName:', a.get\\('artistName'\\)\\)\")",
+      "Bash(curl -s \"https://itunes.apple.com/lookup?id=1522952577&entity=software,macSoftware&limit=200\")",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s \"https://itunes.apple.com/lookup?id=6466876356,6462840343,1663559881&country=us\")"
+    ]
+  }
+}
